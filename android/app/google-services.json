@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596756102848",
+    "project_id": "gestionprojetsapp",
+    "storage_bucket": "gestionprojetsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596756102848:android:53d396a96c56b4f414f725",
+        "android_client_info": {
+          "package_name": "app.firebaseApk.com.gestion_projets_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR8QdAJedjgPWmmBHhZpKymOyLtP_YRCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
